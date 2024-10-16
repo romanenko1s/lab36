@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lab35(2)</string>
+    <string name="mainMenu">Головне меню</string>
+    <string name="goTo2Fragment">до 2го фрагменту</string>
+    <string name="goTo3Fragment">до 3го фрагменту</string>
+    <string name="weatherToday">Погода сьогодні</string>
+    <string name="goTo1Fragment">до 1го фрагменту</string>
+    <string name="weatherWeekly">Погода на цей тиждень</string>
+    <string name="today">Сьогодні %1$s °C</string>
+    <string name="monday">Понеділок</string>
+    <string name="tuesday">Вівторок</string>
+    <string name="wednesday">Середа</string>
+    <string name="thursday">Четвер</string>
+    <string name="friday">П\'ятниця</string>
+    <string name="saturday">Субота</string>
+    <string name="sunday">Неділя</string>
+</resources>
